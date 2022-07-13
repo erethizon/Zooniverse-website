@@ -4,19 +4,17 @@ Headers 2 - 6 and hyperlinks will appear dark-blue.)
 
 [//]: # (Research)
 
-
-
 # Welcome to North Country Wild!  #
 ## Introduction ##
 Wildlife can be secretive and thus difficult to study.  The invention of "camera traps"  (also called *"game cameras"* or *"trail cameras"*) has allowed humans to better learn about the habits of wildlife.  Hunters use camera traps to learn more about the movement and activity patterns of game species.  Scientists use camera traps to capture information about species living in a particular area.
 
 ## Our Project ##
-Here in Northern New York (aka the "North Country") live many interesting creatures.  However, not much research has been done to study wildlife in our region.  The team at [Nature Up North](www.natureupnorth.org) is working with members of our community, and maybe even getting help from folks outside our community (might that describe YOU?), to learn more about the wildlife in our region.
+Here in Northern New York State (aka the "North Country") live many interesting creatures.  However, not much research has been done to study wildlife in our region.  The team at [Nature Up North](www.natureupnorth.org), based at [St. Lawrence University](www.stlawu.edu) is working with members of our local community and our internet community to learn more about the wildlife in our region.
 
 ## A2A ##
-In addition, our region is located in the heart of what is called the "A2A" region (marked in red in the photo below). A2A stands for "Algonquin to Adirondack" and is the region of land that stretches between Algonquin Provincial Park in Ontario, CA and the Adirondack State Park in New York, USA.  A group known as the [A2A Collaborative](http://www.a2acollaborative.org/) is working to connect habitat between the two parks.  Doing so will reduce the effects of habitat fragmentation and a changing climate on wildlife.  Thus, the more we learn about species in our region and their habitat needs, the better able we will be to plan an effective wildlife corridor in the A2A region.
+Our region is located in the heart of what is called the "A2A" region (marked in red in the photo below). A2A stands for "Algonquin to Adirondack" and is the region of land that stretches between Algonquin Provincial Park in Ontario, Canada and the Adirondack State Park in New York, USA.  A group known as the [A2A Collaborative](http://www.a2acollaborative.org/) is working to connect habitat between the two parks.  Doing so will reduce the effects of habitat fragmentation and a changing climate on wildlife.  Thus, the more we learn about species in our region and their habitat needs, the better able we will be to plan an effective wildlife corridor in the A2A region.
 
-We have placed camera traps in several forests within the A2A region (green dots on the map).  In phase 1 of the North Country Wild project, the pictures you are shown come from cameras located in those forests.  Future renditions of the project will also include images from cameras placed in a wider range of habitats across a wider spatial area, still within the A2A corridor.
+We have placed camera traps throughout St. Lawrence County, New York. Future renditions of the project will also include images from cameras placed in a wider range of habitats across a wider spatial area, still within the A2A corridor.
 
 ![A2Amapping.jpg](https://panoptes-uploads.zooniverse.org/production/project_attached_image/d78c74f5-d73f-4b33-9d21-52ac96e0108d.jpeg)
 
@@ -39,9 +37,19 @@ This project is still in development and we appreciate your help in getting it o
 ![Erika 1.jpeg](https://panoptes-uploads.zooniverse.org/production/project_attached_image/ae481a29-fcfd-4bf4-8199-f0f4483b8f18.jpeg =300x)
 Erika is the [Piskor Professor of Biology](https://www.stlawu.edu/people/erika-barthelmess) at [St. Lawrence University](https://www.stlawu.edu) and Director of the [Nature Up North](www.natureupnorth.org) project. Erika is a conservation biologist whose research and teaching interests include North American porcupines, habitat fragmentation, and road ecology, among other things. She is spearheading the North Country Wild project.
 
+## Brett Ford ##
+![brett_ford.jpg](https://panoptes-uploads.zooniverse.org/project_attached_image/022d856a-32dd-4973-91e4-66cc949eb0fb.jpeg)
+Brett graduated from St. Lawrence University in 2014 where he majored in Biology and minored in Mathematics. He spends time outside his full-time job as a bioinformatician helping to automate some of the technical aspects of the North Country Wild project. When not coding, he spends his time eating good food, hiking, and exercising his dog, Otto.
+
 ## Kayla Edmunds ##
 ![kayla_headshot.jpg](https://panoptes-uploads.zooniverse.org/project_attached_image/d1ac13e6-08d5-4513-862e-1a60642f88ea.jpeg =300x)
 Kayla is the [Nature Up North](www.natureupnorth.org) Project Manager and is responsible for day-to-day project operations, including keeping track of North Country Wild. However, her duties have less to do with our Zooniverse instance and more to do with engaging with our student interns who provide project social media and computer support. 
+
+
+## Olivia Bernier ##
+![olivia_bernier.JPG](https://panoptes-uploads.zooniverse.org/project_attached_image/3743a245-f2b0-46b2-ba7c-5e29e49a875f.jpeg)
+
+Olivia is an undergrad at St. Lawrence University (Class of 2024) studying conservation biology. She’s passionate about the outdoors, and loves to spend her time trail running, hiking, and catching frogs. Olivia is conducting a forest health project involving canopy density, regeneration, and tree core analysis and is using data from the North Country Wild project to explore the relationship between forest diveresity and structure and mammal diversity. She is also looking at the impact of deer density on forest regeneration. Olivia is one of the folks who sets up cameras in the field for us as well.
 
 # Past Team Members #
 It takes a village to keep a zooniverse project up and running, and we could not have done so without the help of many folks over the years.
