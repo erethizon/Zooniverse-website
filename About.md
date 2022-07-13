@@ -34,11 +34,11 @@ This project is still in development and we appreciate your help in getting it o
 # Project Leads #
 
 ## Erika L. Barthelmess ## 
-![Erika 1.jpeg](https://panoptes-uploads.zooniverse.org/production/project_attached_image/ae481a29-fcfd-4bf4-8199-f0f4483b8f18.jpeg =300x)
+![elb_head_small.png](https://panoptes-uploads.zooniverse.org/project_attached_image/7ef49be4-73a6-44a0-bc3f-3ea053ccb177.png =300x)
 Erika is the [Piskor Professor of Biology](https://www.stlawu.edu/people/erika-barthelmess) at [St. Lawrence University](https://www.stlawu.edu) and Director of the [Nature Up North](www.natureupnorth.org) project. Erika is a conservation biologist whose research and teaching interests include North American porcupines, habitat fragmentation, and road ecology, among other things. She is spearheading the North Country Wild project.
 
 ## Brett Ford ##
-![brett_ford.jpg](https://panoptes-uploads.zooniverse.org/project_attached_image/022d856a-32dd-4973-91e4-66cc949eb0fb.jpeg)
+![brett_ford.jpg](https://panoptes-uploads.zooniverse.org/project_attached_image/022d856a-32dd-4973-91e4-66cc949eb0fb.jpeg =300x)
 Brett graduated from St. Lawrence University in 2014 where he majored in Biology and minored in Mathematics. He spends time outside his full-time job as a bioinformatician helping to automate some of the technical aspects of the North Country Wild project. When not coding, he spends his time eating good food, hiking, and exercising his dog, Otto.
 
 ## Kayla Edmunds ##
@@ -47,7 +47,7 @@ Kayla is the [Nature Up North](www.natureupnorth.org) Project Manager and is res
 
 
 ## Olivia Bernier ##
-![olivia_bernier.JPG](https://panoptes-uploads.zooniverse.org/project_attached_image/3743a245-f2b0-46b2-ba7c-5e29e49a875f.jpeg)
+![olivia_bernier.JPG](https://panoptes-uploads.zooniverse.org/project_attached_image/3743a245-f2b0-46b2-ba7c-5e29e49a875f.jpeg =300x)
 
 Olivia is an undergrad at St. Lawrence University (Class of 2024) studying conservation biology. She’s passionate about the outdoors, and loves to spend her time trail running, hiking, and catching frogs. Olivia is conducting a forest health project involving canopy density, regeneration, and tree core analysis and is using data from the North Country Wild project to explore the relationship between forest diveresity and structure and mammal diversity. She is also looking at the impact of deer density on forest regeneration. Olivia is one of the folks who sets up cameras in the field for us as well.
 
