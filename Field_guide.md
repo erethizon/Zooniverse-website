@@ -9,7 +9,7 @@ There are currently two workflows in our project. When we initially push images 
 
 ![select_workflows.png](https://panoptes-uploads.zooniverse.org/production/project_attached_image/988ae3df-434f-4294-a9c7-c8ed5e64fdfb.png)
 
-The first workflow, called "Is there an animal?", asks volunteers to look at sets of images and decide whether or not there are any animals in the pictures. This is the first workflow to be activated whenever we add subjects to the project.
+The first workflow, called **"Is there an animal?"**, asks volunteers to look at sets of images and decide whether or not there are humans or any other animals in the pictures. This is the first workflow to be activated whenever we add subjects to the project.
 
 Those sets of images that are determined to have animals in them are passed to a second workflow called "Species Identification."  In this second workflow, volunteers identify the animals in each set of images and answer a few questions about them.
 
@@ -27,11 +27,11 @@ Read on!
 
 [//]: # (Getting Started with Workflows)
 
-    ## Getting Started with Workflows ##
+## Getting Started with Workflows ##
 
-Thanks for helping us identify animals from our camera trap images. The images have been collected from forests across St. Lawrence County in northern New York State.  We do most of our camera trapping during August - December of each calendar year, which means we have photos available for classification usually starting in November and lasting into January and February, depending on how many images and volunteers we have.
+Thanks for helping us identify animals from our camera trap images. The images have been collected from habitats (mostly forests) across St. Lawrence County in northern New York State.  We do most of our camera trapping during August - December of each calendar year, which means we have photos available for classification usually starting in November and lasting into January and February, depending on how many images and volunteers we have.
 
-We have two workflows for processing images. Toward the beginning of each season, only the first workflow, called **Is there an Animal?** will be active. In this workflow, volunteers look at sets of images and decide if they contain animals.  Those sets of images that do contain animals are passed to the second workflow for further analysis. Once enough of the images in the **Is there an Animal?** workflow have been processed, the second workflow, called **Species Identification** becomes active.
+We have two workflows for processing images. Toward the beginning of each season, only the first workflow, called **Is there an Animal?** will be active. In this workflow, volunteers look at sets of images and decide if they contain humans or other animals.  Those sets of images that do contain animals are passed to the second workflow for further analysis. Once enough of the images in the **Is there an Animal?** workflow have been processed, the second workflow, called **Species Identification** becomes active.
 
 ## Common workflow features ##
 
@@ -39,7 +39,7 @@ There are common features to all of our workflows. Our cameras are set to take p
 
 As you can see in the picture below, you can move through the images in a set using either the **play** button in the lower-left corner of the screen or by clicking on the dots in the lower-middle of the screen.
 
-![IsThereAnimal_play.png](https://panoptes-uploads.zooniverse.org/production/project_attached_image/b0dd333e-304f-45bb-8c67-b7cbcad8a5dc.png)
+![bear_selected.png](https://panoptes-uploads.zooniverse.org/project_attached_image/886e5505-7048-4790-8db3-c3bd5601bd7d.png)
 
 There are additional tools to help you. To the top right of each image is a set of tools that lets you zoom and pan around the image, and at the bottom right of each image is a set of tools that lets you collect "favorite" images. 
 
@@ -67,13 +67,36 @@ Navigate through the set of images. Either click the "play" button in the lower 
 
 Flipping through the 3 images can help you glimpse movement of a hard-to-find animal.  Look carefully at each image, as some animals can be tricky to find.
 
-![IsThereAnimal_play.png](https://panoptes-uploads.zooniverse.org/production/project_attached_image/b0dd333e-304f-45bb-8c67-b7cbcad8a5dc.png)
+![bear_selected.png](https://panoptes-uploads.zooniverse.org/project_attached_image/886e5505-7048-4790-8db3-c3bd5601bd7d.png)
 
 ## Make your determination ##
 
-Once you have examined the image(s), choose whether there is an animal in the event by selecting either "Yes" or "I don't think so".  To complete your selection, choose either "Done" if you are ready to move on to the next image, or "Done & Talk" if you'd like to comment or ask a question about the image before moving on.
+Once you have examined the image(s), choose whether there is an animal in the event by selecting one of the following 3 choices:
 
-![IsThereAnimalDone.png](https://panoptes-uploads.zooniverse.org/production/project_attached_image/13178a21-86f3-4f95-a355-8b6a981e03d9.png)
+- "Yes, I see at least one human"
+- "Yes, I see at least one animal (but NO humans)"
+- "No, I don't think there is a human or any other animal in any of the images." 
+
+Sometimes we get pictures of people, and only people (no other animals) in which case the correct answer is "Yes, I see at least one human":
+
+![yes_human_legs.png](https://panoptes-uploads.zooniverse.org/project_attached_image/c5a61965-fbec-4bf8-a988-6ce9ab8f1a5c.png)
+
+Other times, we get pictures that might include humans **as well as** other animals. In that case, the correct answer is **still** "Yes, I see at least one human":
+
+![human_and_dog.png](https://panoptes-uploads.zooniverse.org/project_attached_image/c8251bac-f225-41e3-b8a4-c10639aeb85f.png)
+
+Most of our events do not include humans.  When they include only non-human animals, choose "Yes, I see at least one animal (but NO humans)":
+
+![yes_animal_snowshoe.png](https://panoptes-uploads.zooniverse.org/project_attached_image/0eca8b73-7476-4400-b3e2-841e1f56d5d4.png)
+
+
+And, sometimes we get pictures that don't have humans or animals in them. 
+
+After you have decided what is in the set of images, to complete your selection, choose either "Done" if you are ready to move on to the next image, or "Done & Talk" if you'd like to comment or ask a question about the image before moving on:
+
+![no_animal_and_done.png](https://panoptes-uploads.zooniverse.org/project_attached_image/74c06ba7-979e-4808-aff6-cd546012b326.png)
+
+
 
 [//]: # (Species Identification)
 
@@ -89,12 +112,12 @@ Flipping through the 3 images can help you glimpse movement of a hard-to-find an
 
 ![deer_choices_1.jpg](https://panoptes-uploads.zooniverse.org/production/project_attached_image/17c4b6ef-01cb-47ab-97e5-a5e6a2670fc1.jpeg)
 
-To the right is an alphabetical list of commonly-seen animals from our region.  Choose a species to begin your classification by clicking on its name. Note that humans are listed last. You are required to select a species even if you are not sure of exactly what animal is in the image.
+To the right is an alphabetical list of commonly-seen animals from our region.  Choose a species to begin your classification by clicking on its name. You are required to select a species even if you are not sure of exactly what animal is in the image. Make your best assessment. Each set of images is examined by multiple people.
 
 ![deer_choice1.png](https://panoptes-uploads.zooniverse.org/production/project_attached_image/b8ae8df5-2c43-411e-bc3b-49903a4b841a.png)
 
 ## Filters can help ##
-In the upper right at the top of the list of species names are some filters that allow you to narrow down the possible choices by features such as body size. Click on a filter to limit the possible choices. 
+In the upper right at the top of the list of species names are some filters that allow you to narrow down the possible choices by features such as body size, color, and tail length. Click on a filter to limit the possible choices. 
 
 ![use_species_filter.png](https://panoptes-uploads.zooniverse.org/production/project_attached_image/52de3a4b-83db-4f0b-9c4d-bedc074e939b.png)
 
@@ -108,7 +131,7 @@ Identify any of the behavior(s) that the animals are doing. You can choose more 
 ![deer_questions copy.png](https://panoptes-uploads.zooniverse.org/production/project_attached_image/c068e45a-8537-44d7-8016-f7d4d34c4250.png)
 
 ## Identify snow depth ##
-To finish, identify the snow depth. There is a PVC pipe marked out with black tape in most pictures. The top tape ring represents 30 cm, and there are 2 black rings below at 10 cm intervals. If 2 rings are visible, then 1 is covered by snow, so there is 10-20 cm on the ground. ![snow_depth.jpg](https://panoptes-uploads.zooniverse.org/production/project_attached_image/8200ec34-e103-4418-80dd-c4ba363a98c7.jpeg)
+To finish, identify the snow depth. There is a PVC pipe marked out with black tape in most pictures. The top tape ring, which will be black, yellow, or a combination of black and yellow, represents 30 cm, and there are 2 black rings below at 10 cm intervals. If 2 rings are visible, then 1 is covered by snow, so there is 10-20 cm on the ground. ![snow_depth.jpg](https://panoptes-uploads.zooniverse.org/production/project_attached_image/8200ec34-e103-4418-80dd-c4ba363a98c7.jpeg)
 
 You can read more about measuring snow depth in the **How to measure snow depth** chapter of the Field guide.
 
@@ -121,9 +144,11 @@ When you have identified all of the species in the set of images, choose either 
 
 ![deer_choices_determination.png](https://panoptes-uploads.zooniverse.org/production/project_attached_image/7c86cda3-021d-4ae2-9942-0a5a3893751f.png)
 
+
 [//]: # (More help with answering questions)
 
-    ## Answering Questions ##
+   
+ ## Answering Questions ##
 
 For certain species (all mammals and some birds) we are collecting additional information. A number of questions are presented after you make a species identification in the **Species Identification** workflow.
 
@@ -135,7 +160,7 @@ The first question asks you to estimate the number of individuals of the species
 
 Your answer should estimate the total number of individuals present in aggregate among all three images in each subject set. For example, if three deer are walking through a scene, and you can see one of them in the first image, two of them in the second image, and 3 of them in the third image, you would choose "2-3" as your answer.
 
-The second question asks you to identify any behaviors that you see. Here you can choose as many as you can observe. Each choice, along with a description of what it means, is found in the following table:
+The second question asks you to identify any behaviors that you see. Here you can choose as many behavioras as you can observe. Each choice, along with a description of what it means, is found in the following table:
 
 | Behavior name | Description |
 |-|-|
@@ -165,7 +190,9 @@ When you identify humans in a set of images, you will be asked whether the human
 
 [//]: # (How to measure snow depth)
 
-    As you might imagine, snow can make it hard to move through the woods.  We'd like to get a sense of the relationship between snow depth and animal activity.  Thus, when you see an animal in the picture, please also try to estimate the snow depth by selecting the appropriate answer to the question. Here's how:
+## How to measure snow depth
+
+As you might imagine, snow can make it hard to move through the woods.  We'd like to get a sense of the relationship between snow depth and animal activity.  Thus, when you see an animal in the picture, please also try to estimate the snow depth by selecting the appropriate answer to the question. Here's how:
 
 1. **Locate the scale stick in the photo**.  The scale stick is a piece of PVC pipe taped out every 10 cm with electrical tape.  In a few cases, the scale stick is missing, knocked over, behind vegetation, or totally covered in snow.
 
@@ -198,5 +225,7 @@ If you said "10-20 cm" you're right!
 Looks like you've got the hang of it!
 
 [//]: # (Why is there a PVC stake in the photo?)
+
+## Why is there a PVC stake in the photo?
 
 We use PVC stakes as "scales" in our photos, for several reasons.  First, they let us estimate the snow depth when animals trigger the camera. Second, they help us estimate the size of animals.  The scales are all set the same distance away from each camera, and we know the height of each scale stick. We can use that information to estimate the size of animals in the pictures. While we already know that a moose is bigger than a muskrat, sometimes we only catch part of an animal in a picture.  For example, both mountain lions and domestic cats have long tails - if we just get a tail shot from a camera, the scale stick lets us measure the length of the tail, and we can us that information to more accurately identify species.
