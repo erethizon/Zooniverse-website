@@ -138,79 +138,74 @@ Habitat conservation is not possible without invested human interest. Citizen sc
 
 # Frequently Asked Questions #
 
-1. How do I answer the "Precipitation" question?
-2. How do I determine the snow depth?
-3. Does an animal have to be in all three images to count it?
-4. Photos are in batches of 3. Do I need to classify each photo separately?
-5. When should I use the "Nothing here" selection?
-6. When should I use the "Something here" selection?
-7. What do I do if I see an animal, but can't identify it?
-8. What if I see an animal that is not on your list?
-9. What should I do if the animal displays different behaviors in different photos of the same set?
-10. What do I do if there is more than I kind of animal in the photo?
-11. If I make a mistake, can I return to the photo to correct it?
-12. Can I collect or share photos from North Country Wild?
-13. How can I discuss a photo with others?
-14. What if I see something in the photo that I want to tell the scientists about?
-15. How can I ask a question that is not in this FAQ?
-16. What will this information be used for?
+   
+1. Why do you identify images with humans in them?
+2. Does an animal have to be in all three images to count it?
+3. Photos are in batches of 3. Do I need to classify each photo separately?
+4. What do I do if I see an animal, but can't identify it?
+5. What if I see an animal that is not on your list?
+6. Why isn't there an "other" or "I don't know" category when identifying species?
+7. What should I do if the animal displays different behaviors in different photos of the same set?
+8. How do I determine the snow depth?
+9.  What do I do if there is more than one kind of animal in the photo?
+10. If I make a mistake, can I return to the photo to correct it?
+11. Can I collect or share photos from North Country Wild?
+12. How can I discuss a photo with others?
+13. What if I see something in the photo that I want to tell the scientists about?
+14. How can I ask a question that is not in this FAQ?
+15. What will this information be used for?
 
-## 1. How do I answer the "Precipitation" question? ##
+## 1. Why do you identify images with humans in them? 
 
-We are interested in how animal activity relates to precipitation, so please check "Yes" if it is actively raining or snowing in the photo or "No" if it is not.  Just the presence of snow on the ground does not mean you should check "yes".
+Although we place our camera traps off-trail, occasionally someone stumbles upon one and has their photo made. By asking you to identify images with people in them, those images are shunted to a private workflow so that they are seen by very few people in order to protect people's privacy.
 
-## 2. How do I determine the snow depth? ##
+## 2. Does an animal have to be in all three images to count it? 
 
-We have a scale bar in most of the photos - a section of white PVC pipe with black tape every 10cm.  The easiest way to measure the snow depth is to count from the top of the PVC, which is 40cm above the ground.  As your eye moves down the PVC rod, you subtract 10cm for every black band you pass. Thus, the maximum snow depth is 30-40cm and the minimum is 0-10cm. **If you cannot see the scale bar, just leave the question about snow depth blank.**
+No - each set of 3 images is considered 1 "event".  The cameras are programmed to take up to three photos in rapid-fire succession when triggered, so we are assuming that any animal present in any of the 3 photos was part of that particular event.  Look at all three photos - if there is an animal in any of the 3, go ahead and classify it.
 
-## 3. Does an animal have to be in all three images to count it? ##
-
-No - each set of 3 images is considered 1 "event".  The cameras were programmed to take up to three photos in rapid-fire succession when triggered, so we are assuming that any animal present in any of the 3 photos was part of that particular event.  Look between all three photos - if there is an animal in any of the 3, go ahead and classify it.
-
-## 4. Photos are in batches of 3. Do I need to classify each photo separately? 
+## 3. Photos are in batches of 3. Do I need to classify each photo separately? 
 
 No - since each set of 3 photos is considered a single event, we are assuming that any animal present in any of the 3 photos is the same animal, so you just need to count it once.  The software is set up to work this way.
 
-## 5. When should I use the "Nothing here" selection? ##
+## 4. What do I do if I see an animal, but can't identify it?
+Check for movement by switching between photos, try inverting the photos, and zoom in on the photos before deciding that you cannot identify the animal.  If after all of that, you still aren't sure what the animal is,then just make your very best guess. In some cases, we only generally ID the animal.  For example, if you see what you think is a mouse, but might be a vole, you can choose "Other small mammal" as the identification. 
 
-You should use this choice sparingly, after first closely examining the photo. Check for movement by switching between photos, try inverting the photo, and zoom in on the photo before deciding that nothing is there.  If after all of that, you don't see an animal in **any** of the three photos in that set, you can choose "Nothing here."
-"
-## 6. When should I use the "Something here" selection? ##
+## 5. What if I see an animal that is not on your list?
 
-There are sometimes photos in which you are sure an animal is present, but all you can make out is, for example, eye shine, and you just can't tell what the animal is. Check for movement by switching between photos, try inverting the photo, and zoom in on the photo before deciding that you cannot identify the animal.  If after all of that, you aren't sure what the animal is, you can choose "Something here." **If you have even a vague guess about what the animal is, please record it as your guess rather than selecting "Something here."**
+We periodically refine our list to best reflect the wildlife in our area. Thus, even if you don't think the animal you see belongs to any of the species on our list, please choose the species it most closely resembles from our list. Remember that each set of images is viewed by many different volunteers and those about which there is not strong consensus as to species ID are reviewed by our scientific staff.
 
-## 7. What do I do if I see an animal, but can't identify it? ##
-Check for movement by switching between photos, try inverting the photos, and zoom in on the photos before deciding that you cannot identify the animal.  If after all of that, you still aren't sure what the animal is,you can choose "Something here." In some cases, we only generally ID the animal.  For example, if you see what you think is a mouse, but might be a vole, you can choose "Other small mammal" as the identification. **If you have even a vague guess about what the animal is, please record it as your guess rather than selecting "Something here."**
+## 6. Why isn't there an "other" or "I don't know" category when identifying species?
+The reason we don't have an "other" or "I dont know" category is because we really want people to try their hardest to decide the species. Some zooniverse project designers have found that when volunteers have an "other" choice, images are not classified as well in general by the volunteer squad. 
 
-## 8. What if I see an animal that is not on your list? ##
-
-If you see an animal that is not on our list, choose "Other" in the classification menu.  You can then use the "talk" feature to leave a comment identifying the animal if you know what it is.
-
-## 9. What should I do if the animal displays different behaviors in different photos of the same set? ##
+## 7. What should I do if the animal displays different behaviors in different photos of the same set? 
 
 Record all of the behaviors that you observe in the full set of 3 photos - this will help us get an idea of the general behaviors of that particular species.  If in one frame a gray squirrel is standing and in the next it appears to be digging, record both behaviors.
 
-## 10. What do I do if there is more than I kind of animal in the set of photos? ##
+## 8. How do I determine the snow depth? ##
 
-First, celebrate!  These kinds of events are fairly unusual in our project!  Then classify the first animal, but rather than selecting "Done" at the end, select the next species on the list and answer the questions about it.  Only when you have all of the species recorded should you move on.
+We have a scale bar in most of the photos - a section of white PVC pipe with black tape every 10cm.  The easiest way to measure the snow depth is to count from the top of the PVC, which is 30cm above the ground.  As your eye moves down the PVC rod, you subtract 10cm for every black band you pass. Thus, the maximum snow depth is 30-40cm and the minimum is 0-10cm. **If you cannot see the scale bar but see snow on the ground, choose "there is snow but I can't see scale stick" and move on.**
 
-## 11. If I make a mistake, can I return to the photo to correct it? ##
+## 9. What do I do if there is more than one kind of animal in the set of photos?
 
-No,you can't go back and fix a mistake, but don't worry!  We have lots of volunteers working on the project, so each photo is seen by many eyes.  We are just grateful that you're helping us!
+First, celebrate!  These kinds of events are fairly unusual in our project!  Then classify the first animal, but rather than selecting "Done" at the end, select the next species on the list and answer the questions about it.  Only when you have all of the species recorded should you move on. **See the field guide for more information.** 
 
-## 12. Can I collect or share photos from North Country Wild? ##
+## 10. If I make a mistake, can I return to the photo to correct it?
+
+Until you select "Done" or "Done and Talk" you can fix your mistake by navigating to the lower left of the set of images and deselecting the species choice that is displayed in blue.  Once you have hit "Done," however, you can't go back and fix a mistake, but don't worry!  We have lots of volunteers working on the project, so each photo is seen by many eyes.  We are just grateful that you're helping us!
+
+## 11. Can I collect or share photos from North Country Wild? ##
 Yes!  We hope you are excited by some of the photos you see!  However, we'd like you to ascribe credit to North Country Wild, and mention the creative commons license so folks know how they can use the images.  **You may not use any of the photos for commercial purposes.**
 
-## 13. How can I discuss a photo with others? ##
+## 12. How can I discuss a photo with others? ##
 
 When you are done with the classifcation, choose the "Done and Talk" button rather than the "Done" button and a talk window will open where you can make comments about the image and others will be able to see your comments and respond.  
-## 14. What if I see something in the photo that I want to tell the scientists about? ##
+## 13. What if I see something in the photo that I want to tell the scientists about? ##
 
 We hope you will!  Again, choose the "Done and Talk" button at the end of the classification and post your question. If you use a hashtag to categorize your question, such as #injury or #behavior it will help collect similar questions together.
 
-## 15. How can I ask a question that is not in this FAQ? ##
-Start by clicking "Talk" at the top of the page.  If you don’ t find the answer you are looking for, click on the relevant forum under “Help”. At the bottom of the page, you can create a new discussion. We check the forums and answer as many questions as we can, as often as we can. Experienced Zooniverse volunteers may also participate in these discussions and offer their ideas and advice. 
+## 14. How can I ask a question that is not in this FAQ? ##
+Start by clicking "Talk" at the top of the page.  If you don’t find the answer you are looking for, click on the relevant forum under “Help”. At the bottom of the page, you can create a new discussion. We check the forums and answer as many questions as we can, as often as we can. Experienced Zooniverse volunteers may also participate in these discussions and offer their ideas and advice. 
 
-## 16. What will this information be used for? ##
+## 15. What will this information be used for? ##
 
 Great question!  While it is fun to look at images and classify them on the Zooniverse, it takes a huge amount of field work and computer work to get all of these images onto the Zooniverse, so we must have a good reason!  The short version: We are studying how mammals use habitat in northern New York state, on both public and private land, to better undrestand how to conserve habitat.  Our goal is to help advise land use plans in establishing the Algonquin to Adirondack biocorridor.  Feel free to read more by clicking the "About" link at the top of the page and then selecting "Research."  And remember - it would be really tough to do this work without help from volunteers like you, so **THANK YOU!**
