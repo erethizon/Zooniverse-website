@@ -133,6 +133,30 @@ Habitat conservation is not possible without invested human interest. Citizen sc
 ## Thank you again for your participation in classifying our images! ##
 
 [//]: # (Education)
+\
+
+We appreciate your help with our research and hope you see a lot of wonderful photos. We'd also like to encourage you to enjoy the photos for personal use. All of our media are licensed by [Nature Up North](https://www.natureupnorth.org) and Erika Barthelmess through a Creative Commons [Attritubtion-NonCommercial-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/) which means you are free to:
+- copy and distribute the material in any medium or format
+- remix, transform, and build upon the material 
+
+**As long as you**
+
+- give appropriate credit, provide a link to the license, and indicate if changes were made
+-  refrain from using any of the media for commercial purposes and
+-  agree to distribute any contributions you make to the media (by remixing, transforming or building upon it) under the same license as that posted here. 
+
+If you are interested in obtaining access to the classification data for scientific or educational purposes, please [reach out to Dr. Erika Barthelmess](mailto:barthelmess@stlawu.edu?subject=ZooniverseDataInquiry)
+
+
+
+| Click the image to learn more |
+|:---:|
+| [![CC_license_image.png](https://panoptes-uploads.zooniverse.org/project_attached_image/ce69a2dc-0850-46c1-ab35-6b270d9dff54.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
+
+
+
+
+
 
 [//]: # (FAQ)
 
