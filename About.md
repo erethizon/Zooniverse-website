@@ -12,11 +12,18 @@ Wildlife can be secretive and thus difficult to study.  The invention of "camera
 Here in Northern New York State (aka the "North Country") live many interesting creatures.  However, not much research has been done to study wildlife in our region.  The team at [Nature Up North](www.natureupnorth.org), based at [St. Lawrence University](www.stlawu.edu) is working with members of our local community and our internet community to learn more about the wildlife in our region.
 
 ## A2A ##
-Our region is located in the heart of what is called the "A2A" region (marked in red in the photo below). A2A stands for "Algonquin to Adirondack" and is the region of land that stretches between Algonquin Provincial Park in Ontario, Canada and the Adirondack State Park in New York, USA.  A group known as the [A2A Collaborative](http://www.a2acollaborative.org/) is working to connect habitat between the two parks.  Doing so will reduce the effects of habitat fragmentation and a changing climate on wildlife.  Thus, the more we learn about species in our region and their habitat needs, the better able we will be to plan an effective wildlife corridor in the A2A region.
+Our region is located in the heart of what is called the "A2A" region (marked in red in the map below). A2A stands for "Algonquin to Adirondack" and is the region of land that stretches between Algonquin Provincial Park in Ontario, Canada and the Adirondack State Park in New York, USA.  A group known as the [A2A Collaborative](http://www.a2acollaborative.org/) is working to connect habitat between the two parks.  Doing so will reduce the effects of habitat fragmentation and a changing climate on wildlife.  Thus, the more we learn about species in our region and their habitat needs, the better able we will be to plan an effective wildlife corridor in the A2A region.
 
 We have placed camera traps throughout St. Lawrence County, New York. Future renditions of the project will also include images from cameras placed in a wider range of habitats across a wider spatial area, still within the A2A corridor.
 
-![A2Amapping.jpg](https://panoptes-uploads.zooniverse.org/production/project_attached_image/d78c74f5-d73f-4b33-9d21-52ac96e0108d.jpeg)
+
+| Click the map to go to the interactive version[![A2Amap.png](https://panoptes-uploads.zooniverse.org/project_attached_image/f03ad50e-95f9-43af-96d2-42612c027b49.png)](https://arcg.is/1bviL4) |
+|:--:|
+|            Map of A2A region (in red) between Algonquin Provincial Park in Ontario and the Adirondack State Park in New York. St. Lawrence County is outlined in blue.|
+
+**Click the map to go to the interactive version** 
+ <a href="https://arcg.is/1bviL4"><img src="https://panoptes-uploads.zooniverse.org/project_attached_image/f03ad50e-95f9-43af-96d2-42612c027b49.png" target="_blank" alt="A2Amap.png"></a>
+
 
 ## Goals ##
 Our goals with this project are threefold:
